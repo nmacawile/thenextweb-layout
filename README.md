@@ -6,5 +6,4 @@ My attempt to copy The Next Web's responsive layout. In this exercise, I used CS
 
 - [Original layout](https://web.archive.org/web/20180430205915/https://thenextweb.com/)
 
-- [Preview]()
-
+- [Preview](https://htmlpreview.github.io/?https://github.com/nmacawile/thenextweb-layout/blob/master/index.html)
